@@ -2,8 +2,6 @@
 
 ## An example of my OOP coding skills
 
-***
-
 This is a "Cleaner" class I created to perform a few different data wrangling tasks.
 
 The code is documented well and puts on display my understanding of Object-Oriented Programming and Data Pipeline building; the documentation even shows up in the tool tip when hovering over one of the functions:
